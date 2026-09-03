@@ -1,0 +1,12 @@
+# Raw market data dumps (large, regenerable from data providers)
+bse_bhavcopy/
+Sec_bhavdata/
+analysis/history-data/
+
+# Trained models / local run artifacts
+data/
+__pycache__/
+*.pyc
+
+# Logs
+pipeline_run_output.txt
