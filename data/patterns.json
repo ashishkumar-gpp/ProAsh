@@ -1,0 +1,192 @@
+{
+  "phase1_start": "2024-07-01",
+  "phase1_end": "2026-06-23",
+  "n_phase1_rows": 146520,
+  "min_coverage_n": 1465,
+  "baseline_success_rate": 0.4215,
+  "baseline_failure_rate": 0.3294,
+  "success_rules": [
+    {
+      "conditions": [
+        "resistance_distance >= 0.2235",
+        "ret_20 >= 0.1039"
+      ],
+      "n": 2033,
+      "hit_rate": 0.695,
+      "lift": 0.2735
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.2235",
+        "rs_20 >= 0.08625"
+      ],
+      "n": 2061,
+      "hit_rate": 0.688,
+      "lift": 0.2665
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.2235",
+        "ret_10 >= 0.06917"
+      ],
+      "n": 3222,
+      "hit_rate": 0.6834,
+      "lift": 0.2619
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.2235",
+        "ret_20 >= 0.06328"
+      ],
+      "n": 2898,
+      "hit_rate": 0.6794,
+      "lift": 0.2579
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.2235",
+        "rs_10 >= 0.05837"
+      ],
+      "n": 3230,
+      "hit_rate": 0.6653,
+      "lift": 0.2438
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.1758",
+        "ret_20 >= 0.1039"
+      ],
+      "n": 2945,
+      "hit_rate": 0.6635,
+      "lift": 0.242
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.2235",
+        "rs_20 >= 0.04932"
+      ],
+      "n": 3077,
+      "hit_rate": 0.6597,
+      "lift": 0.2382
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.1758",
+        "rs_20 >= 0.08625"
+      ],
+      "n": 3043,
+      "hit_rate": 0.649,
+      "lift": 0.2275
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.2235",
+        "ret_10 >= 0.04137"
+      ],
+      "n": 4636,
+      "hit_rate": 0.6486,
+      "lift": 0.2271
+    },
+    {
+      "conditions": [
+        "resistance_distance >= 0.2235",
+        "gap_avg5 <= -0.001633"
+      ],
+      "n": 8178,
+      "hit_rate": 0.645,
+      "lift": 0.2235
+    }
+  ],
+  "failure_rules": [
+    {
+      "conditions": [
+        "ret_20 <= 0.1039",
+        "rsi14 >= 61.79"
+      ],
+      "n": 9419,
+      "hit_rate": 0.4199,
+      "lift": 0.0905
+    },
+    {
+      "conditions": [
+        "rsi14 >= 61.79",
+        "rs_20 <= 0.04932"
+      ],
+      "n": 5478,
+      "hit_rate": 0.4189,
+      "lift": 0.0895
+    },
+    {
+      "conditions": [
+        "resistance_distance <= 0.04287",
+        "rs_20 <= 0.04932"
+      ],
+      "n": 10224,
+      "hit_rate": 0.4177,
+      "lift": 0.0883
+    },
+    {
+      "conditions": [
+        "resistance_distance <= 0.04287",
+        "ret_20 <= 0.1039"
+      ],
+      "n": 15045,
+      "hit_rate": 0.4146,
+      "lift": 0.0852
+    },
+    {
+      "conditions": [
+        "resistance_distance <= 0.04287",
+        "rs_10 <= 0.03279"
+      ],
+      "n": 11086,
+      "hit_rate": 0.4129,
+      "lift": 0.0835
+    },
+    {
+      "conditions": [
+        "resistance_distance <= 0.04287",
+        "ret_10 <= 0.04137"
+      ],
+      "n": 10537,
+      "hit_rate": 0.4121,
+      "lift": 0.0827
+    },
+    {
+      "conditions": [
+        "rs_20 <= 0.08625",
+        "rsi14 >= 61.79"
+      ],
+      "n": 10118,
+      "hit_rate": 0.412,
+      "lift": 0.0826
+    },
+    {
+      "conditions": [
+        "resistance_distance <= 0.04287",
+        "rs_20 <= 0.08625"
+      ],
+      "n": 15339,
+      "hit_rate": 0.411,
+      "lift": 0.0816
+    },
+    {
+      "conditions": [
+        "resistance_distance <= 0.04287",
+        "rs_10 <= 0.05837"
+      ],
+      "n": 16110,
+      "hit_rate": 0.4041,
+      "lift": 0.0747
+    },
+    {
+      "conditions": [
+        "resistance_distance <= 0.04287",
+        "ret_10 <= 0.06917"
+      ],
+      "n": 16044,
+      "hit_rate": 0.4035,
+      "lift": 0.0741
+    }
+  ]
+}

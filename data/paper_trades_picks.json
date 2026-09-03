@@ -1,0 +1,90 @@
+[
+  {
+    "market": "NSE",
+    "symbol": "CYIENT",
+    "entry_date": "2026-08-29",
+    "buy_price": 1107.45,
+    "target": 1240.34,
+    "stop_loss": 1048.16
+  },
+  {
+    "market": "NSE",
+    "symbol": "OMAXE",
+    "entry_date": "2026-08-31",
+    "buy_price": 129.0,
+    "target": 144.48,
+    "stop_loss": 109.41
+  },
+  {
+    "market": "NSE",
+    "symbol": "MANALIPETC",
+    "entry_date": "2026-08-31",
+    "buy_price": 81.75,
+    "target": 91.56,
+    "stop_loss": 71.83
+  },
+  {
+    "market": "NSE",
+    "symbol": "FMGOETZE",
+    "entry_date": "2026-08-31",
+    "buy_price": 624.85,
+    "target": 699.83,
+    "stop_loss": 547.62
+  },
+  {
+    "market": "NSE",
+    "symbol": "INDOCO",
+    "entry_date": "2026-09-02",
+    "buy_price": 273.77,
+    "target": 306.62,
+    "stop_loss": 236.88
+  },
+  {
+    "market": "NSE",
+    "symbol": "BODALCHEM",
+    "entry_date": "2026-09-02",
+    "buy_price": 145.45,
+    "target": 162.9,
+    "stop_loss": 117.69
+  },
+  {
+    "market": "NSE",
+    "symbol": "WAKEFIT",
+    "entry_date": "2026-09-03",
+    "buy_price": 152.47,
+    "target": 170.77,
+    "stop_loss": 132.22
+  },
+  {
+    "market": "NSE",
+    "symbol": "HATSUN",
+    "entry_date": "2026-09-03",
+    "buy_price": 1193.6,
+    "target": 1336.83,
+    "stop_loss": 1060.57
+  },
+  {
+    "market": "BSE",
+    "symbol": "NIACL",
+    "entry_date": "2026-09-03",
+    "buy_price": 199.15,
+    "target": 223.05,
+    "stop_loss": 177.44
+  },
+  {
+    "market": "NSE",
+    "symbol": "BEML",
+    "entry_date": "2026-09-03",
+    "buy_price": 2032.4,
+    "target": 2276.29,
+    "stop_loss": 1849.96
+  },
+  {
+    "market": "NSE",
+    "symbol": "JTLIND",
+    "entry_date": "2026-09-03",
+    "buy_price": 92.4,
+    "target": 103.49,
+    "stop_loss": 81.19
+  }
+]
